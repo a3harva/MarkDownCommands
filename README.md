@@ -6,6 +6,4 @@ contains a markdown file for copy pasting commands that are needed for daily use
 ```
 python manage.py runserver
 ```
-update 
-
-delete
+update  delete 
